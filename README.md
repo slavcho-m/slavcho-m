@@ -11,8 +11,6 @@ I’m currently a software engineer pursuing my bachelor’s degree, with a part
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyboyyy&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sleepyboyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyboyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

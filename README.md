@@ -1,5 +1,5 @@
-## Hi there 👋
-I’m a software engineer pursuing my bachelor’s degree, with a particular passion for building dynamic, end-to-end applications. Currently, my focus is on mastering full-stack development, where I enjoy connecting the dots between intuitive frontend experiences and efficient backend systems. I’m excited to keep learning and growing in this field, bringing ideas to life through code.
+## Hi there 👋, I'm Slavcho
+I’m currently a software engineer pursuing my bachelor’s degree, with a particular passion for building dynamic, end-to-end applications. Currently, my focus is on mastering full-stack development, where I enjoy connecting the dots between intuitive frontend experiences and efficient backend systems. I’m excited to keep learning and growing in this field, bringing ideas to life through code.
 
 
 

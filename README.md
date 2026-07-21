@@ -1,5 +1,15 @@
-## Hi there 👋, I'm Slavcho
-I’m currently a software engineer pursuing my bachelor’s degree, with a particular passion for building dynamic, end-to-end applications. Currently, my focus is on mastering full-stack development, where I enjoy connecting the dots between intuitive frontend experiences and efficient backend systems. I’m excited to keep learning and growing in this field, bringing ideas to life through code.
+### Hi, I'm Slavcho 👋
+
+Software engineer from Skopje. I build across the stack.
+
+**Stack**
+Angular · React · TypeScript · Spring Boot · Java · Node.js · Python · PostgreSQL · Redis · Docker · Kafka · GitLab CI/CD
+
+**Currently building**
+- 🛒 [shopest.co](https://shopest.co) — multi-tenant SaaS storefront platform (React + Laravel)
+- 💻 [vidilaptopi.mk](https://vidilaptopi.mk) — laptop price aggregator for the Macedonian market (Spring Boot microservices + React)
+
+Pinned repos below.
 
 
 
